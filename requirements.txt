@@ -1,0 +1,9 @@
+asgiref==3.7.2
+diploma-frontend @ file:///home/evgenia/PycharmProjects/Python_django_diploma_dpo/diploma-frontend/dist/diploma-frontend-0.6.tar.gz#sha256=f0684c3cad0d4c3862dbba5958a917ece07cf105d73f35a523ed6123c36461c0
+Django==4.2.2
+django-filter==23.2
+djangorestframework==3.14.0
+Pillow==9.5.0
+pytz==2023.3
+sqlparse==0.4.4
+typing_extensions==4.6.3
